@@ -140,3 +140,5 @@ cython_debug/
 
 /sine_wave.gif
 /test.png
+
+/.idea/*
